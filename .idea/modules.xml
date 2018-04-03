@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/RSS.iml" filepath="$PROJECT_DIR$/RSS.iml" />
+      <module fileurl="file://C:\Users\aomm\Desktop\exercicio1-rss-master\RSS\RSS.iml" filepath="C:\Users\aomm\Desktop\exercicio1-rss-master\RSS\RSS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\aomm\Desktop\exercicio1-rss-master\RSS\app\app.iml" filepath="C:\Users\aomm\Desktop\exercicio1-rss-master\RSS\app\app.iml" />
+    </modules>
+  </component>
+</project>
